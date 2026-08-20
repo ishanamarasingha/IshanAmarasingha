@@ -4,7 +4,7 @@
 <p align="center">
   <!-- Profile photo -->
   <img src="images-4.jpeg" 
-       alt="Profile Photo" width="150" height="150" style="border-radius:50%;"/>
+       alt="Profile Photo" width="300" height="300" style="border-radius:50%;"/>
 </p>
 
 <p align="center">
