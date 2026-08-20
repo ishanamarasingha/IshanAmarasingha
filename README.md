@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- Profile photo -->
-  <img src="https://github.com/MrHirunaNavod/MrHirunaNavod/blob/4e5a354b8026ffd5cebed354b7d6ef7fc7acbf16/image.png" 
+  <img src="images-4.jpeg" 
        alt="Profile Photo" width="150" height="150" style="border-radius:50%;"/>
 </p>
 
