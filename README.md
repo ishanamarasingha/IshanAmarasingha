@@ -1,30 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishan Amarasingha</h1>
 <h3 align="center">A passionate Cyber Security from SriLanka.</h3>
 
-<p align="center">
-  <!-- Profile photo -->
-  <img src="images-4.jpeg" 
-       alt="Profile Photo" width="300" height="300" style="border-radius:50%;"/>
-</p>
-
-<p align="center">
-  <!-- Profile views badge -->
-  <img src="https://komarev.com/ghpvc/?username=mrhirunanavod&label=Profile%20views&color=0e75b6&style=flat" 
-       alt="mrhirunanavod" />
-</p>
-
-<p align="center">
-  <!-- Banner style image -->
-  <img src="https://github.com/MrHirunaNavod/MrHirunaNavod/blob/426a200415da4540bd7170e2c016612ce0d29218/image.png" 
-       alt="Profile Banner" width="1300" height="50"/>
-</p>
-
-<p align="center">
-  <!-- GitHub Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrhirunanavod" alt="mrhirunanavod" />
-  </a>
-</p>
 
 
 
